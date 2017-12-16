@@ -1,0 +1,1 @@
+JAVA -cp .;C:\MXAPI\MXAPI.jar; MXAppTest
